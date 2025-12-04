@@ -13,6 +13,7 @@ This project was developed as part of **Project 4: Simple Social Media Platform*
 
 - Authentication supporting User and Admin
 - Post creation, edition, deletion
+- Category type creation, deletion, edition from Admin side.
 - Update user account details from Admin side
 - Email Api integrated
 - User sessions
