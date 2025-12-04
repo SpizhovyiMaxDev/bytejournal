@@ -9,37 +9,23 @@ This project was developed as part of **Project 4: Simple Social Media Platform*
 
 ---
 
-## 🚀 Features
+## 🧪 Requirements Implemented
 
-### ✅ Core Functionality
+- Authentication supporting User and Admin
+- Post creation, edition, deletion
+- Public feed
+- User sessions
+- Post deletion
+- Profile pages
+- Email Api integrated
 
-- User registration and authentication
-- User profiles with avatar + bio
-- Create, edit, and delete posts
-- Public feed with all posts sorted by newest
-- Session-based navigation (Login, Logout, Profile)
-- Category filtering and author information
+## 🔧 Technologies Used
 
----
-
-### ⭐ Advanced Features (A‑Grade Requirements)
-
-#### 1. Follow System
-
-- Follow/unfollow users
-- Personalized feed with followed users' posts
-- Follow/Unfollow button on profile pages
-- Follower/following counters
-
-#### 2. Likes & Comments
-
-- Like/unlike posts
-- Dynamic like counter
-- Comment under posts
-- Comments show avatar, author name, timestamp
-- Secure server-side validation
-
----
+- **PHP (Procedural + MVC‑style modules)**
+- **MySQL**
+- **HTML5 / CSS3**
+- **JavaScript**
+- **XAMPP / Apache**
 
 ## 🛠️ Administrator Panel
 
@@ -147,28 +133,6 @@ Directory structure:
         └── src/
             └── Exception.php
 ```
-
----
-
-## 🧪 Requirements Implemented
-
-- Authentication supporting User and Admin
-- Post creation, edition, deletion
-- Public feed
-- User sessions
-- Post deletion
-- Profile pages
-- Email Api integrated
-
----
-
-## 🔧 Technologies Used
-
-- **PHP (Procedural + MVC‑style modules)**
-- **MySQL**
-- **HTML5 / CSS3**
-- **JavaScript**
-- **XAMPP / Apache**
 
 ---
 
