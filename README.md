@@ -152,20 +152,13 @@ Directory structure:
 
 ## 🧪 Requirements Implemented
 
-### ✔ Required (Core)
-
-- Authentication
-- Post creation
+- Authentication supporting User and Admin
+- Post creation, edition, deletion
 - Public feed
 - User sessions
 - Post deletion
 - Profile pages
-
-### ✔ Advanced (for A‑grade)
-
-- Follow System
-- Likes
-- Comments
+- Email Api integrated
 
 ---
 
