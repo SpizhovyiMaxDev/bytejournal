@@ -13,11 +13,11 @@ This project was developed as part of **Project 4: Simple Social Media Platform*
 
 - Authentication supporting User and Admin
 - Post creation, edition, deletion
-- Public feed
+- Update user account details from Admin side
+- Email Api integrated
 - User sessions
 - Post deletion
-- Profile pages
-- Email Api integrated
+- Public feed
 
 ## 🔧 Technologies Used
 
